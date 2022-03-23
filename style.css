@@ -2,18 +2,57 @@
 
 
 body {
-  background-color: #edede9;
+  margin: 0px 0px 0px 0px;
+  background-color: #d1d1d1;
 }
 
-h1, h2, h3{
-  font-family: arial;
+main{
+  margin-right: 100px;
+  margin-left: 100px;
 }
 
-header h1{
+img{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  
+}
+
+main img{
+  text-align: center;
+}
+
+h1, h3{
+  font-family: Trebuchet MS;
+}
+
+header{
+  background-color: #e67a56;
+  text-align: center;
+}
+
+h1 h2{
+  text-align: center;
+}
+
+h1{
   margin-top: 0px;
   margin-bottom: 0px;
+  color: white;
+  font-size: 40px;
 }
 
-h2{
- color: #fbca6d;
+h2{  
+  margin-top: 0px;
+  margin-bottom: 50px;
+  color: #c3cfa0;
+  font-color: Webdings;
+  font-size: 20px;
+}
+
+footer{
+  background-color: #e67a56;
+  text-align: center;
+  margin-bottom: 0px;
+  padding: 5px;
 }
