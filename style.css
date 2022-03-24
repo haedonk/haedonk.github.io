@@ -74,7 +74,7 @@ footer{
   height: auto;
 }
 
-a:link    { color: #d86a03;}
+a:link    { color: #c25e00;}
 a:visited { color: #d400ff;}
-a:hover   { color: #ffc35c;}
-a:active  { color: pink;}
+a:hover   { color: #f59b00;}
+a:active  { color: #ff2448;}
